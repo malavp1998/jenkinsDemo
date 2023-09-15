@@ -8,7 +8,7 @@ public class JenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsApplication.class, args);
-		System.out.println("Build using jenkins completed 2");
+		System.out.println("Build using jenkins completed 3");
 	}
 
 }
